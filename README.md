@@ -45,4 +45,6 @@ Needs (why users may use the app):
 - Users on a paid plan will have their data saved to a database. This data may include: today and tomorrow's main task, and sub-tasks; streak data and history; history of completed/uncompleted main tasks to display on the calendar. 
 - Users will need to be able to create an account and sign in, as well as change account information (name, passwords, etc.).
 
+---
+
 © 2024 Louis Carnell. All rights reserved.
