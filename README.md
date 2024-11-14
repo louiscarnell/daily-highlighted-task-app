@@ -1,3 +1,5 @@
+\[This is a university project, which is why it is public. It is not open source.\]
+
 # Daily Highlighted Task App
 (The app's name is a WIP, so this is just a placeholder for now.)
 
